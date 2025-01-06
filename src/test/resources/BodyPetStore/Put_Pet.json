@@ -1,0 +1,18 @@
+{
+  "id": "$id_petId",
+  "category": {
+    "id": 1232,
+    "name": "$customCat"
+  },
+  "name": "$name",
+  "photoUrls": [
+
+  ],
+  "tags": [
+    {
+      "id": 666,
+      "name": "274"
+    }
+  ],
+  "status": "available"
+}

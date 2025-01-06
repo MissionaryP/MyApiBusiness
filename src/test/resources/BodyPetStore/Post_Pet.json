@@ -1,0 +1,15 @@
+{
+  "category": {
+    "id": 1232,
+    "name": "Feline"
+  },
+  "name": "Fluffy",
+  "photoUrls": [],
+  "tags": [
+    {
+      "id": 560,
+      "name": "Gatito"
+    }
+  ],
+  "status": "available"
+}
